@@ -2,7 +2,7 @@ class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
         string result="";
-        int leastSize=9999999;
+        int leastSize=INT_MAX;
         for(string s:strs){
             if(s.size()<leastSize){
                 leastSize=s.size();
