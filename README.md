@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/amanwadhwaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanwadhwaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/amanwadhwaa/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/amanwadhwaa/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/amanwadhwaa/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3643-flip-square-submatrix-vertically](https://github.com/amanwadhwaa/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanwadhwaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/amanwadhwaa/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
