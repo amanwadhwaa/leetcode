@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/amanwadhwaa/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/amanwadhwaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0041-first-missing-positive](https://github.com/amanwadhwaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/amanwadhwaa/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/amanwadhwaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/amanwadhwaa/leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/amanwadhwaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
