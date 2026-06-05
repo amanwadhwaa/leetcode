@@ -20,8 +20,6 @@ public:
             s.insert(i);
             nums[j] = m[i];
         }
-        for (auto& x : s)
-        cout << x << " ";
-    cout << endl;
+        
     }
 };
