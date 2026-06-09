@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanwadhwaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/amanwadhwaa/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanwadhwaa/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/amanwadhwaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/amanwadhwaa/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/amanwadhwaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/amanwadhwaa/leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
