@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        set<int> s;
+        unordered_set<int> s;
         for(int i = 0 ; i < nums.size() ; i++){
             if(s.size() == k+1){
                 s.erase(nums[i-k-1]);
