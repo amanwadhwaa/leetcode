@@ -6,12 +6,7 @@ public:
         int numBoats=0;
         int r=people.size()-1;
         while(l<=r){
-            if(people[r] == limit){
-                numBoats++;
-                r--;
-                continue;
-            }
-            else if(people[r] + people[l] > limit){
+            if(people[r] + people[l] > limit){
                 numBoats++;
                 r--;
                 continue;
