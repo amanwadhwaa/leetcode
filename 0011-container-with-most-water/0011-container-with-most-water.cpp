@@ -7,8 +7,6 @@ public:
         while(l<r){
             int area = (r-l) * min(height[l], height[r]);
             if(area > max){
-                // cout << "r-l " << (r-l) << endl;
-                // cout <<  "height[min(l,r)] -> " << height[min(l,r)]
                 max=area;
             }
             if(height[l]<height[r]){
