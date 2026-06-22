@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanwadhwaa/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/amanwadhwaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/amanwadhwaa/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanwadhwaa/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/amanwadhwaa/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/amanwadhwaa/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanwadhwaa/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
