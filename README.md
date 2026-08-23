@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/amanwadhwaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/amanwadhwaa/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/amanwadhwaa/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/amanwadhwaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amanwadhwaa/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/amanwadhwaa/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/amanwadhwaa/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/amanwadhwaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/amanwadhwaa/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -211,11 +214,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/amanwadhwaa/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/amanwadhwaa/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
