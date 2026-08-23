@@ -8,7 +8,6 @@ public:
                 r++;
             }
             else{
-                cout << r <<endl;
                 nums[++l] = nums[r];
             }
         }
