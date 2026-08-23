@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/amanwadhwaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/amanwadhwaa/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/amanwadhwaa/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/amanwadhwaa/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/amanwadhwaa/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanwadhwaa/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanwadhwaa/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/amanwadhwaa/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/amanwadhwaa/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
