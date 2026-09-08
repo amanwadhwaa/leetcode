@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/amanwadhwaa/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/amanwadhwaa/leetcode/tree/main/0463-island-perimeter/) | Easy |
+| [0496-next-greater-element-i](https://github.com/amanwadhwaa/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/amanwadhwaa/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/amanwadhwaa/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0881-boats-to-save-people](https://github.com/amanwadhwaa/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/amanwadhwaa/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/amanwadhwaa/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/amanwadhwaa/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0496-next-greater-element-i](https://github.com/amanwadhwaa/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/amanwadhwaa/leetcode/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/amanwadhwaa/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanwadhwaa/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanwadhwaa/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/amanwadhwaa/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +243,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/amanwadhwaa/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/amanwadhwaa/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
