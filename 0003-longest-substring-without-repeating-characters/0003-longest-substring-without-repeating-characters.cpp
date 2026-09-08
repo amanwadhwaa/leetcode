@@ -1,35 +1,24 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char,int> m;
-        if(s.size() == 1){
-            return 1;
+        if(s.size() < 1){
+            return s.size();
         }
-        int maxLen=0;
+        unordered_map<char,int> lastSeen;
+        int maxLen=INT_MIN;
         int start =0;
-        int i=0;
-        for(i =0 ; i<s.size() ; i++){
-            char c = s[i];
-            if(m.count(c)){
-                //cout<<mySet.size() << endl;
-                if(i -start > maxLen){
-                    maxLen = i-start;
-                    cout << "updated maxLen = " << maxLen << endl;
-                }
-                if(m[c] < start ){
-                   m[c] = i;
-                   continue;
-                }
-                start = m[c] + 1;
-                cout << "updated start = " << start <<endl;
+        int curLen =0;
+        for(int i =0 ; i< s.size() ; i++){
+            if(lastSeen.count(s[i]) && lastSeen[s[i]] >= start){
+                start = lastSeen[s[i]]+1;
+                curLen = i - start + 1;
+            }else{
+                curLen++;
             }
-            m[c] = i;
-            cout << "inserted: " << c << endl;
-        }
-        if( i-start > maxLen){
-            maxLen = i -start;
+            maxLen = max(maxLen, i - start + 1);
+
+            lastSeen[s[i]] = i;
         }
         return maxLen;
-
     }
 };
