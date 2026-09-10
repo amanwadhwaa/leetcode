@@ -11,13 +11,9 @@ public:
         for(int i =0 ; i< s.size() ; i++){
             if(lastSeen.count(s[i]) && lastSeen[s[i]] >= start){
                 start = lastSeen[s[i]]+1;
-                curLen = i - start + 1;
-            }else{
-                curLen++;
             }
-            maxLen = max(maxLen, i - start + 1);
-
             lastSeen[s[i]] = i;
+            maxLen = max(maxLen, i - start + 1);
         }
         return maxLen;
     }
